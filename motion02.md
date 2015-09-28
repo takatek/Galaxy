@@ -5,4 +5,3 @@
 
 ##メンバー
 *takatek
-*takatek02
